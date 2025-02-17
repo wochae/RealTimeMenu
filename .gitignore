@@ -1,0 +1,16 @@
+# 백엔드 관련 제외
+backend/target/
+backend/.mvn/
+backend/.idea/
+backend/.vscode/
+backend/*.log
+backend/*.iml
+
+# 프론트엔드 관련 제외
+frontend/node_modules/
+frontend/.nuxt/
+frontend/dist/
+frontend/.idea/
+frontend/.vscode/
+frontend/*.log
+frontend/*.iml
